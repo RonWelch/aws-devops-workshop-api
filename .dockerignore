@@ -1,0 +1,10 @@
+.editorconfig
+.eslintignore
+.eslintrc
+.git
+.yo-rc-json
+.yarn-error.log
+.nycrc
+DevDockerFile
+.nyc_output
+coverage
