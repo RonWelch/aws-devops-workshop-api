@@ -3,7 +3,8 @@
 # >> CHANGE THESE << to match the names you're using
 # Set up our 3 main pieces
 TASK_DEFINITION="awsdevops-api"
-SERVICE="api-service"
+#SERVICE="api-service"
+SERVICE="awsdevops-api"
 CLUSTER="awsdevops-cluster"
 
 set -e
